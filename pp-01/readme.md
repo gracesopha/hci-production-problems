@@ -24,11 +24,11 @@ Let’s start with something fun: a typeface-pairing game.
 3. Make a record of your paired typefaces here (Name and URL on Google Fonts):
 
    Typeface One:
-     - Name:
-     - URL:
+     - Name: Playfair Display
+     - URL: https://fonts.google.com/specimen/Playfair+Display#about
    Typeface Two:
-     - Name:
-     - URL:
+     - Name: Raleway
+     - URL: https://fonts.google.com/specimen/Raleway#about
 
 4. Next, here in the `pp-01` directory, work with the starter HTML file to set up some content to
    show off your pairing and explain briefly why you chose the typefaces you did. The most basic
