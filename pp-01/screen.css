@@ -7,3 +7,24 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* stylelint-enable */
 
 /* Begin site styles below */
+
+a {
+  font-family: 'Raleway', sans-serif;
+  font-size: 1em;
+  margin: 1em;
+  text-align: left;
+}
+
+h1 {
+   font-family: 'Playfair Display', serif;
+   font-size: 2em;
+   margin: 1em;
+   text-align: center;
+}
+
+p {
+   font-family: 'Raleway', sans-serif;
+   font-size: 1em;
+   margin: 1em;
+   text-align: left;
+}
