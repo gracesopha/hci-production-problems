@@ -29,14 +29,14 @@ Small commits to your Production Problems repository that include:
 2. An explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guideline One (URL):
-* Describe how you implemented that guideline in your sketch:
+* HCI Guideline One (URL): https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/navigation/
+* Describe how you implemented that guideline in your sketch: In relation to our upcoming project, I felt as if this page could be broken up into at least two pages. It would follow the hierarchical navigation, making the steps easier to follow.
 
-* HCI Guideline Two (URL):
-* Describe how you implemented that guideline in your sketch:
+* HCI Guideline Two (URL): https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/accessing-user-data/
+* Describe how you implemented that guideline in your sketch: I feel as if user data disclosure should be very transparent. For the mailing information at the bottom, I added what the subscription's purpose is and how the user's email will be used.
 
-* HCI Guideline Three (URL):
-* Describe how you implemented that guideline in your sketch:
+* HCI Guideline Three (URL): https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/color/
+* Describe how you implemented that guideline in your sketch: The website is for contemporary art, so I understand the artistic design, but it is not that great to look at. To start, I thought the required should be highlighted in a different color aside from black to enhance its importance. Since everything aside from the submit button is in color, it could be easy to get distracted and want to go forward.
 
 For the Production Problem discussion next week, be sure to share your sketches and chosen
 guidelines.
