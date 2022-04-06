@@ -16,8 +16,8 @@ for your first (and second) round of usability testing.
 
 * URLs for the usability checklists you’ve found:
 
-1.
-2.
+1. https://en.ryte.com/magazine/usability-checklist-for-successful-websites
+2. https://usability.yale.edu/web-accessibility/articles/wcag2-checklist/developers
 
 * Your team’s condensed ten-item, must-have usability checklist:
 
