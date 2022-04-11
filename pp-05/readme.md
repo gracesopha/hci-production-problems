@@ -21,8 +21,8 @@ for your first (and second) round of usability testing.
 
 * Your team’s condensed ten-item, must-have usability checklist:
 
-1.
-2.
+1. Understandable navigation points
+2. Unique headings and labels
 3.
 4.
 5.
