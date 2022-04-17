@@ -23,11 +23,11 @@ for your first (and second) round of usability testing.
 
 1. Understandable navigation points
 2. Unique headings and labels
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+3. Have you arranged information properly? Make it easy for users to find what they’re looking for by grouping related information together.
+4. Limit font styles to 2 or 3 maximum per site. Over-designing the site can be distracting.
+5. Users usually expect that your site’s main logo will link to your homepage, so make sure you’ve done this.
+6. Site Load-time Is Reasonable
+7. Minimizing users’ input you will gain more accurate data. Don’t ask for things that are not necessary.
+8. Does your site render correctly on different devices? Use responsive design and your website will render correctly to all visitors.
+9. Company logo brings you to the home homepage
+10. Use customer-focused language that explains the unique benefits of your products and services.
